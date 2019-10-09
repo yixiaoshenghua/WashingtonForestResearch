@@ -1,0 +1,5 @@
+Lontitude,Latitude,StartYear,disturb_duration,recovery_duration,Disturbance_Depth,depth/disturb_year,depth*disturb_year,depth/recovery_year,depth*recovery_year,depth/totalYear,depth*totalYear,Disturbance
+-123.9,44,1985,0,0,0,0,0,0,0,0,0,Afforestation
+-123.9,44.7,1985,0,0,0,0,0,0,0,0,0,Afforestation
+-124.04,47.15,1985,0,0,0,0,0,0,0,0,0,Afforestation
+-123.98,47.17,1985,0,0,0,0,0,0,0,0,0,Afforestation
